@@ -1,0 +1,17 @@
+Identifier = "SLEInfo"
+Name = {
+    English = "SLE Info"
+}
+NameShort = "SLEInfo"
+Description = {
+    English = "Displays information pertaining to SLE zones and bosses."
+}
+Author = "Mil"
+Website = "http://www.deathrift.com"
+Version = "0.0.1"
+Email = "mil@deathrift.com"
+Environment = "2.7"
+
+RunOnStartup = {
+  "Main.lua"
+}
